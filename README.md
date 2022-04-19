@@ -3,4 +3,4 @@
 
 controls WASD Shift Space
 
-Live demo: https://github.com/KappnKrunch/3DMandlebrotSetVisualization/deployments/activity_log?environment=github-pages
+Live demo: https://kappnkrunch.github.io/3DMandlebrotSetVisualization/
