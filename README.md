@@ -9,7 +9,7 @@ We can then extend the mandlebrot set to 4 dimensions, and project it back into 
 
 This visualization showcases that fractal in a 3D environment that you can move around in and explore the fractal geometry.
 
-![Alt text](images/Screenshot%202025-06-13%20140249.png)
+![Alt text](/Screenshot%202025-06-13%20140249.png)
 
 controls  WASD for Forward/Back and Turning, Space/Shift for Up/Down respectively.
 
