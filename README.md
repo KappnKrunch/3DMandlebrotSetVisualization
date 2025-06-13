@@ -9,7 +9,7 @@ We can then extend the mandlebrot set to 4 dimensions, and project it back into 
 
 This visualization showcases that fractal in a 3D environment that you can move around in and explore the fractal geometry.
 
-[Here](https://colab.research.google.com/github/KappnKrunch/3D-fMRI-region-mapping/blob/main/3D_region_mapping_with_nilearn.ipynb "interactive link")
+[Here]("Screenshot 2025-06-13 140249.png")
 
 [Here](https://colab.research.google.com/github/KappnKrunch/3D-fMRI-region-mapping/blob/main/3D_region_mapping_with_nilearn.ipynb "interactive link")
 
